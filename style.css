@@ -50,6 +50,7 @@ display: inline-block;
   }
   h1 {
     font-size: 2rem;
+    text-align: center;
   }
   span {
     width: 100px;
